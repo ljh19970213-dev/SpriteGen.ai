@@ -1,0 +1,5 @@
+{
+  "name": "SpriteGen.ai",
+  "description": "Generate 2D side-scrolling character spritesheets from a single image using Gemini.",
+  "requestFramePermissions": []
+}
